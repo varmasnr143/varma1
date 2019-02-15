@@ -1,0 +1,49 @@
+{
+  "basic":{
+    "image":"varma.jpg",
+    "name":"Varma",
+    "email":"varma8835@gmail.com",
+    "number":"9398847470",
+    "Address":"Sr nagar,MANDAPETA"
+  },
+
+  "career":{
+    "info":"to secure a challenging position in a reputable oraganisation"
+  },
+  "education":[
+{
+
+      "institute":"PRAGATI COLLEGE",
+      "degree":"b.tech",
+      "passout":"2021"
+    },
+    {
+      "institute":"TIRUMALA JUNIOR college",
+      "degree":"INTERMEDIATE",
+      "passout":"2017"
+    },
+    {
+      "institute":"SRI CHAITANYA PUBLIC SCHOOL",
+      "degree":"SSC",
+      "passout":"2015"
+    }
+  ],
+  "Skills":[
+    {
+      "info":"Languages",
+      "details":["C","C++","Java"]
+    },
+    {
+      "info":"operating system",
+      "details":["windows","android","os"]
+    },
+    {
+      "info":"databases",
+      "details":["oracle","mysql","tinydb"]
+    },
+    {
+      "info":"Achievements",
+      "details":["internships","NPTEL certifications","workshops on JavaScript"]
+    }
+  ]
+  }
